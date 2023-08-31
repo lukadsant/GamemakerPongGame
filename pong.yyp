@@ -38,6 +38,7 @@
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},},
     {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},},
     {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},},
+    {"id":{"name":"Object6","path":"objects/Object6/Object6.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},},
     {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},},
