@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_bola","order":1,"path":"sprites/spr_bola/spr_bola.yy",},
+    {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
+    {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"obj_bola","order":1,"path":"objects/obj_bola/obj_bola.yy",},
+    {"name":"Object4","order":3,"path":"objects/Object4/Object4.yy",},
+    {"name":"spr_background","order":2,"path":"sprites/spr_background/spr_background.yy",},
+  ],
+}
